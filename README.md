@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Captura de tela_6-6-2024_95520_localhost](https://github.com/matheustakano/rocketnotes-/assets/71953842/e653ed45-ed7b-43e8-82d7-0c4c15190c56)
+![Captura de tela_6-6-2024_95527_localhost](https://github.com/matheustakano/rocketnotes-/assets/71953842/649bad01-593b-4595-8faa-09f41e681ea0)
+![image](https://github.com/matheustakano/rocketnotes-/assets/71953842/b04b5ead-d2ee-45ed-ba77-a547e3d52c0e)
+![Captura de tela_6-6-2024_95429_localhost](https://github.com/matheustakano/rocketnotes-/assets/71953842/92909645-5a4c-43fe-9f33-bbf600d04e0a)
+![Captura de tela_6-6-2024_95624_localhost](https://github.com/matheustakano/rocketnotes-/assets/71953842/8bb1176b-4d63-4ad4-a658-407172e9229d)
+![Captura de tela_6-6-2024_95450_localhost](https://github.com/matheustakano/rocketnotes-/assets/71953842/461e6e35-02b8-4edc-8905-4c4f0b544860)
